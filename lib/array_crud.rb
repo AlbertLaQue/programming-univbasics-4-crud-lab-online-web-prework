@@ -43,8 +43,13 @@ def retrieve_last_element_from_array(array)
    good_food[-1]
 end
 
+<<<<<<< HEAD
 def update_element_from_index(array,index_number,element)
    good_food = ["wow","am", "burgers", "hotdogs", "arrays!"]
   p  good_food[4] = "totally"
+=======
+def update_element_from_index
+   good_food[4] = "totally"
+>>>>>>> b9d1c20f19295b227133b95ceb3e9808b69fd5aa
 
 end
